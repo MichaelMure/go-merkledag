@@ -1,4 +1,4 @@
-module github.com/ipfs/go-merkledag
+module github.com/MichaelMure/go-merkledag
 
 require (
 	github.com/gogo/protobuf v1.2.1
